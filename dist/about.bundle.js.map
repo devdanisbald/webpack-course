@@ -1,0 +1,1 @@
+{"version":3,"file":"about.bundle.js","mappings":"AAAAA,QAAQC,KAAK","sources":["webpack://webpackcourse/./src/about.js"],"sourcesContent":["console.info('about file');\n"],"names":["console","info"],"sourceRoot":""}
